@@ -12,6 +12,8 @@ Solving the Knight's Tour using Warnsdorff algorithm.
     - Mark the board at P with the current move number.
 4. Return the marked board - each square will be marked with the move number on which it is visited.
 
+Source: <https://www.geeksforgeeks.org/warnsdorffs-algorithm-knights-tour-problem/>
+
 ## Running the script
 
 To run the script, you need to first install the requirements.
@@ -20,7 +22,7 @@ To run the script, you need to first install the requirements.
 pip install -r requirements.txt
 ```
 
-Then you can run the script by the typing in the erminal
+Then you can run the script by the typing in the terminal
 
 ``` bash
 python main.py
